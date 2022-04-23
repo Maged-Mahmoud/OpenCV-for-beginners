@@ -7,7 +7,7 @@ by the end you will implement real-time face detection using OpenCV haarcascade
 * 2- Basic functions for image processing
 * 3- Resizing and Cropping
 * 4- Shapes and Texts
-* 5- Wrap Perspective
+* 5- Warp Perspective
 * 6- Joining Images (the function used in this section imported from Murtaza workshop)
 * 7- Color Detection and playing with image colors
 * 8- Contour and Shape detection
